@@ -1,5 +1,5 @@
 <?php
-echo "Hello EyE";
+echo "Hello";
 
 
  $alert_script =  "<script>alert(\'You have to tick the box\')</script>";
